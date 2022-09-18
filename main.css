@@ -1,6 +1,6 @@
 body {
 
-  background: #222 url("/img/river.gif"); /*Replace with your own background image.*/
+  background: #222 url("river.gif"); /*Replace with your own background image.*/
 
   background-size: cover;
 
